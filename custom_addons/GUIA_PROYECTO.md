@@ -1,1 +1,1 @@
-Mi futuro proyecto sirve para hacer muchas cosas
+Mi futuro proyecto sirve para hacer muchas cosas. La guía documenta el entorno de prácticas. Los datos de la base de datos se copian por separado
